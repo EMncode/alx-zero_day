@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+update_script
+>>>>>>> 035fd9970b595a8f63c6cc9dc8155133d03d23e5
  HEAD
  HEAD
 update_script
@@ -12,9 +16,14 @@ hi ALX School
 ALX School is so cool!
 master
  8829e5436245299abc8287b2d40eef162e951a3c
+<<<<<<< HEAD
  HEAD
 ALX School is so cool!
  master
 ALX School is so cool!
 master
  035fd9970b595a8f63c6cc9dc8155133d03d23e5
+=======
+ALX School is so cool!
+master
+>>>>>>> 035fd9970b595a8f63c6cc9dc8155133d03d23e5

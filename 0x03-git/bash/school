@@ -1,13 +1,19 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 updated #!/bin/bash
 =======
 it is an updated #!/bin/bash
 >>>>>>> master
 =======
+=======
+>>>>>>> 035fd9970b595a8f63c6cc9dc8155133d03d23e5
 update_script
 updated #!/bin/bash
 it is an updated #!/bin/bash
 master
+<<<<<<< HEAD
+>>>>>>> 035fd9970b595a8f63c6cc9dc8155133d03d23e5
+=======
 >>>>>>> 035fd9970b595a8f63c6cc9dc8155133d03d23e5
 echo "School"
